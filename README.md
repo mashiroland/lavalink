@@ -1,0 +1,1 @@
+The [Lavalink](https://github.com/freyacodes/Lavalink) docker image for Mashiro

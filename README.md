@@ -1,1 +1,1 @@
-The [Lavalink](https://github.com/freyacodes/Lavalink) docker image for Mashiro
+The [Lavalink](https://github.com/freyacodes/Lavalink) Docker image for Mashiro

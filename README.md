@@ -7,7 +7,7 @@ The [Lavalink](https://github.com/freyacodes/Lavalink) Docker image for Mashiro
 ```bash
 docker run -d --name lavalink \
     -e SERVER_ADDRESS=0.0.0.0 \
-    mashirodev/lavalink
+    mashirodev/lavalink:latest
 ```
 
 ## Environment Variables
